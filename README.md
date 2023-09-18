@@ -1,1 +1,2 @@
-# calculator-100
+# 100DAYS-OF-CODE-CHALLENGE
+## DAY-3
